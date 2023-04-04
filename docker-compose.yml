@@ -1,0 +1,7 @@
+version: '3.9'
+services:
+  ms-hexagonal-architecture:
+    build: .
+    container_name: ms-hexagonal-architecture
+    ports:
+      - "8080:8080"

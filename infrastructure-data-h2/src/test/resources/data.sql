@@ -1,0 +1,1 @@
+INSERT INTO PRODUCTS (id,name,price) VALUES ('test1','test 1','10.1'), ('test2','test 2','10.2'), ('test3','test 3','10.3')
